@@ -7,6 +7,3 @@
 [submodule "treecmd"]
 	path = treecmd
 	url = https://github.com/aldoshkind/treecmd.git
-[submodule "treescript"]
-	path = treescript
-	url = https://github.com/aldoshkind/treescript.git
