@@ -1,0 +1,12 @@
+[submodule "tree"]
+	path = tree
+	url = https://github.com/aldoshkind/tree.git
+[submodule "treeipc"]
+	path = treeipc
+	url = https://github.com/aldoshkind/treeipc.git
+[submodule "treecmd"]
+	path = treecmd
+	url = https://github.com/aldoshkind/treecmd.git
+[submodule "treescript"]
+	path = treescript
+	url = https://github.com/aldoshkind/treescript.git
